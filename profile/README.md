@@ -10,7 +10,7 @@
 
 Check the Features list below.
 
-![1](https://images.mein-mmo.de/medien/2026/07/DragonSword-Awakening-Titel-title-780x438.jpg)
+![1](https://github.com/RaikageDisplay/DragonSword-Awakening-Hack-V1/blob/main/assets/image.jpg)
 
 
 ## Features
